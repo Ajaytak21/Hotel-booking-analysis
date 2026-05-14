@@ -38,7 +38,7 @@ arrive at the property
 
 # Challenges
 
-* (1) Lot of null values were present in the dataset.
-* (2) Data type of some Data was in wrong format.
-* (3) Lot of duplicate data.
-* (4) Which visualization techniques to use was a challenge?
+(1) Lot of null values were present in the dataset.
+(2) Data type of some Data was in wrong format.
+(3) Lot of duplicate data.
+(4) Which visualization techniques to use was a challenge?
